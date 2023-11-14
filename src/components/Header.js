@@ -15,9 +15,15 @@ function Header(){
         <ul>
         <li>My Grocery App</li>
         <li>
-            <a href="https://github.com/surajjindam03/grocery-app">Github</a>
+        <a className="anchor-image" href="https://github.com/surajjindam03/grocery-app">
+                <img className="image-class" src="github.webp" alt='Github repo'/>
+        </a>
         </li>
+    
         </ul>
+        {/* <a className="anchor-image" href="https://github.com/surajjindam03/grocery-app">
+                <img className="image-class" src="github.webp" alt='Github repo'/>
+        </a> */}
             
       </nav>
 
